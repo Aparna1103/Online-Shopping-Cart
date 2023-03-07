@@ -1,2 +1,2 @@
-# Online-Shopping-Cart
-Project developed with express.js,node.js with mongodb
+# shopping-cart
+Node Online shopping cart
